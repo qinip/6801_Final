@@ -1,0 +1,170 @@
+outletsBiasRatingsAllSides ={ ## https://www.allsides.com/media-bias/media-bias-ratings, updated to ver. 9.2
+'alternet': -2,
+'democracynow': -2,
+'db': -2,
+'hp': -2,
+'theintercept': -2,  
+'jacobin': -2,
+'motherjones': -2, 
+'thenewyorker': -2,
+'thenation': -2,    
+'slate': -2,    # pick
+ 'vox': -2,
+
+'cnn': -1.5,
+'nyt': -1.5,    # pick
+'abcnews': -1,
+'theatlantic': -2,     
+'buzzfeed': -2,
+'cbs': -1,    
+'economist': -1, 
+'guardian': -1,
+'nbcnews': -1,
+'politico': -1,
+'timemagazine': -1,
+'wp': -1,
+'npr': -1,    
+    
+'ap': -1,
+'bbc': 0, 
+'bloomberg': -1,
+'csm': 0,   # pick 
+'reuters': 0, # pick
+'thehill': 0,
+'usatoday': -1,    
+    
+'wsj': 0.5,
+'reason': 1,
+'we': 1,
+'wt': 1,    
+'fox': 2,  
+
+'americanspectator': 2,    
+'bre': 2,
+'theblaze': 2,
+'cbn': 2,
+'dailycaller': 2,    
+'dailymail': 2, # pick
+'dailywire': 2,
+'thefederalist': 2,       
+'nationalreview': 1.5,
+'nyp': 1.5,  # pick
+'newsmax': 2,
+ }
+ 
+outletsBiasRatingsMediaBiasFactCheck ={ ## https://mediabiasfactcheck.com
+'db': -2,
+'hp': -2,
+'thenewyorker': -2,
+'vox': -2,
+'cnn': -2,
+'nyt': -1,
+'buzzfeed': -1,
+'guardian': -1,
+'npr': -1,
+'csm': 0,
+'usatoday': 0,
+'wsj': 1,
+'reason': 1,
+'wt': 1,        
+'fox': 2,
+'bre': 2,
+'we': 2,    
+'nationalreview': 2,
+'nyp': 1,
+'thefederalist': 2, 
+}
+
+outletsBiasRatingsFairReporters ={ #http://www.fairreporters.org/news-media-bias-ratings/ 
+ 'hp': -3,
+ 'cnn': -2,
+ 'nyt': -3,
+ 'npr': -1,
+ 'usatoday': -2,
+ 'wsj': 2,
+ 'fox': 3,
+ 'bre': 3,
+}
+
+outletsBiasRatingsAdFontesMedia ={ ## https://www.adfontesmedia.com/interactive-media-bias-chart/ 
+ 'db': -16.25,
+ 'hp': -11.64,
+ 'thenewyorker': -6.90,
+ 'vox': -8.75,
+ 'cnn': -5.69,
+ 'nyt': -4.01,
+ 'buzzfeed': -7.06,
+ 'guardian': -6.45,
+ 'theatlantic': -6.41,
+ 'npr': -2.73,
+ 'csm': -0.21,
+ 'usatoday': -2.03,
+ 'wsj': 1.89,
+ 'reason': 4.12,
+ 'wt': 12.97,        
+ 'we': 12.17,
+ 'fox': 15.31, #They have another entry with a bias score of 24.56?????
+ 'nationalreview': 16.23,
+ 'nyp': 5.15,
+ 'thefederalist': 23.29,    
+}
+
+
+
+outletAbbreviationToFullName = {
+    'alternet': "Alternet",
+    'democracynow': "Democracy Now",
+    'db': "Daily Beast",
+    'hp': "Huffington Post",
+    'jacobin': "Jacobin",
+    'theintercept': "The Intercept",
+    'motherjones': "Mother Jones",
+    'thenewyorker': "The New Yorker",
+    'thenation': "The Nation",
+    'slate': "Slate",
+    'vox': "Vox",
+    
+    'cnn': "CNN",
+    'nyt': "New York Times",
+    'abcnews': "ABC News",
+    'theatlantic': "The Atlantic",
+    'buzzfeed': "Buzzfeed",
+    'cbs': "CBS News",
+    'economist': "The Economist",
+    'guardian': "The Guardian",
+    'nbcnews': "NBC News",
+    'politico': "POLITICO",
+    'timemagazine': "TIME",
+    'wp': "Washington Post",
+    'npr': "NPR",
+    
+    'ap': "Associated Press",
+    'bbc': "BBC",
+    'bloomberg': "Bloomberg",
+    'csm': "Christian Science Monitor",
+    'reuters': "REUTERS",
+    'thehill': "The Hill",
+    'usatoday': "USA Today",
+    
+    'wsj': "Wall Street Journal",
+    'reason': "Reason",
+    'we': "Washington Examiner",    
+    'wt': "Washington Times",
+    'fox': "Fox News",
+    
+    'americanspectator': "American Spectator",
+    'bre': "Breitbart",
+    'theblaze': "The Blaze",
+    'cbn': "Christian Broadcasting Network",
+    'dailycaller': "The Daily Caller",
+    'dailymail': "The Daily Mail",
+    'dailywire': 'The Daily Wire',
+    'thefederalist': "The Federalist",
+    'nationalreview': "National Review",
+    'nyp': "New York Post",
+    'newsmax': "Newsmax",
+
+    'businessinsider': "Business Insider",
+    'lat': "Los Angeles times",
+    
+}
