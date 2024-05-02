@@ -22,3 +22,4 @@ The code used for this project is all saved in Python scripts or Jupyter noteboo
 
 ## Output
 All figures generated during this replication process are placed in the `figures` directory. Especailly, the figures 4-7 were not inserted in the final report due to their large sizes.
+Please find `Project Proposal`, `Presentation`, and `Report` in the root directory.
